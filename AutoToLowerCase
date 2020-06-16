@@ -14,4 +14,4 @@ void set$StringUtil.capitalizeWithJavaBeanConvention($StringUtil.sanitizeJavaIde
     #end
   #end
   $field.name = $paramName;
-}
+} 
